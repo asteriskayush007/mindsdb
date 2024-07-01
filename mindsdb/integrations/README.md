@@ -13,7 +13,7 @@ Datasources in MindsDB refer to the different data storage and management system
 [AI-Engines](https://docs.mindsdb.com/ai-engines/overview) in MindsDB are the core of our AI and ML capabilities. This category encompasses a diverse range of artificial intelligence and machine learning modeling options, including:
 
   * Generative AI: Unlock the potential of generative algorithms for innovative solutions.
-  * Automated Machine Learning (Auto-ML): Simplify complex ML processes with automation, making AI more accessible. 
+  * Automated Machine Learning (Auto-Machine learning): Simplify complex ML processes with automation, making AI more accessible. 
 
 
 ## Directory Overview
